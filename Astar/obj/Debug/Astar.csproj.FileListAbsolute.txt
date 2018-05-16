@@ -1,0 +1,7 @@
+C:\Users\gabri\source\repos\Astar\Astar\bin\Debug\Astar.exe.config
+C:\Users\gabri\source\repos\Astar\Astar\bin\Debug\Astar.exe
+C:\Users\gabri\source\repos\Astar\Astar\bin\Debug\Astar.pdb
+C:\Users\gabri\source\repos\Astar\Astar\obj\Debug\Astar.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\Astar\Astar\obj\Debug\Astar.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\Astar\Astar\obj\Debug\Astar.exe
+C:\Users\gabri\source\repos\Astar\Astar\obj\Debug\Astar.pdb
